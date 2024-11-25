@@ -22,11 +22,11 @@ This project explores the building inventory dataset through two interactive vis
 Below are links to both the data and the analysis code, provided as buttons for easier access:
 
 <div class="left">
-{% include elements/button.html link="https://github.com/QBYQ/qbyq.github.io/blob/56a13abe3a3f1cfe33bcaa79e11c7b511337548c/assets/json/chart.json" text="The Data" %}
+{% include elements/button.html link="https://qbyq.github.io/assets/json/chart.json" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/QBYQ/qbyq.github.io/blob/56a13abe3a3f1cfe33bcaa79e11c7b511337548c/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/QBYQ/qbyq.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
 
 ---
