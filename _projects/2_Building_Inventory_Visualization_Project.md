@@ -13,8 +13,8 @@ custom_js:
 # Building Inventory Data Visualization
 
 This project explores the building inventory dataset through two interactive visualizations created using Python, Altair, and Vega-Lite. These visualizations provide insights into temporal trends of acquisitions and constructions, as well as building usage patterns categorized by square footage. The interactive features, such as tooltips and filtering options, enhance data exploration and understanding.
-<vegachart schema-url="/assets/json/acquired_chart.json" style="width: 100%"></vegachart>
-<vegachart schema-url="/assets/json/constructed_chart.json" style="width: 100%"></vegachart>
+<vegachart schema-url="/assets/json/chart.json" style="width: 100%"></vegachart>
+
 ---
 
 ## Data & Methods
@@ -22,11 +22,11 @@ This project explores the building inventory dataset through two interactive vis
 Below are links to both the data and the analysis code, provided as buttons for easier access:
 
 <div class="left">
-{% include elements/button.html link="assets/json/acquired_chart.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/QBYQ/qbyq.github.io/tree/main/assets/json/chart.json" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/QBYQ/qbyq.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
 
 ---
